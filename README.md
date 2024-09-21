@@ -1,2 +1,3 @@
 # developer24
-first project 
+This is my first project 
+Author : Sarthak Dokhe
